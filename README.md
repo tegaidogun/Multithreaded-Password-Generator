@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Synced-Hashset-PasswordGenerator - COP 4338 Programming Assignment 4</title>
 </head>
 <body>
 
